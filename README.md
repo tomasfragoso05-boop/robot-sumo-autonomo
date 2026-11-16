@@ -74,6 +74,5 @@ Atmel/Microchip Studio also works: create a GCC C project for the ATmega328P and
 - Add side sensors so the robot can turn toward an opponent instead of only searching straight ahead.
 - Add a start button with the 5 s delay required by competition rules.
 
-## Team
 
-Tomás Barreira and Martim Fernandes.
+
