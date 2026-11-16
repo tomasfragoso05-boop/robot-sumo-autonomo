@@ -1,0 +1,11 @@
+# Build output
+*.elf
+*.hex
+*.o
+
+# KiCad local/backup files
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.kicad_sch-bak
+_autosave-*
