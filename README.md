@@ -68,11 +68,7 @@ avrdude -c usbasp -p m328p -U flash:w:sumo.hex
 
 Atmel/Microchip Studio also works: create a GCC C project for the ATmega328P and add `main.c`.
 
-## Possible improvements
 
-- Use a timer interrupt and input capture to measure the ultrasonic echo without blocking the loop.
-- Add side sensors so the robot can turn toward an opponent instead of only searching straight ahead.
-- Add a start button with the 5 s delay required by competition rules.
 
 
 
